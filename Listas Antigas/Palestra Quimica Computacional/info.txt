@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Química Computacional
+data: 14 de Maio de 2018
+carga: 2
+modelo: pet

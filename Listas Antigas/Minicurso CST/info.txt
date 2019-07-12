@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: Desenho de Antenas e Guias de Ondas para Simulação em Software
+data: 03 de Março de 2018
+carga: 4
+modelo: pet

@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: Python Básico
+data: 16 de Setembro de 2017
+carga: 8
+modelo: pet

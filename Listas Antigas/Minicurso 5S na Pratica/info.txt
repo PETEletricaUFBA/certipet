@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: 5S na Prática
+data: 01 e 02 de Outubro de 2018
+carga: 6
+modelo: pet

@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Projeto de Transformadores
+data: 24 de Setembro de 2018
+carga: 2
+modelo: pet

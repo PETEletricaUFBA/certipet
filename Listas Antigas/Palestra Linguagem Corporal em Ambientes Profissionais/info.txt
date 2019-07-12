@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Linguagem Corporal em Ambiente de Trabalho
+data: 09 de Novembro de 2017
+carga: 2
+modelo: pet

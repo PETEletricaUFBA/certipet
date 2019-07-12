@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Editoração Usando LaTeX
+data: 13 de Maio de 2017
+carga: 4
+modelo: pet

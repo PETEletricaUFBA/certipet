@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: Arduino
+data: 09 de Junho de 2018
+carga: 4
+modelo: liaam

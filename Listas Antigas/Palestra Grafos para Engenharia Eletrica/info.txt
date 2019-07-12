@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Grafos para Engenharia Elétrica
+data: 20 de Abril de 2018
+carga: 2
+modelo: pet

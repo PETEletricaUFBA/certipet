@@ -1,0 +1,5 @@
+tipo: palestra
+nome: Nanotecnologia
+data: 25 de Outubro de 2017
+carga: 2
+modelo: pet

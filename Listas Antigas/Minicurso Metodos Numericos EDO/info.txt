@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: Métodos Numéricos para EDOs
+data: 18 de Novembro de 2017
+carga: 8
+modelo: pet

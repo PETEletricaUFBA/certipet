@@ -1,0 +1,5 @@
+tipo: minicurso
+nome: Oratória
+data: 30 de Novembro de 2018
+carga: 4
+modelo: pet
